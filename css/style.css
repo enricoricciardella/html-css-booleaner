@@ -1,8 +1,23 @@
+/* Sistemo il logo "THE BOOLEANER" */
+.Logo{
+    background-image: url(../img/pattern.png);
+    background-color: aqua;
+    
+}
+
+
 /* Ingrandisco il titolo principale */
 
 .Main-title{
     font-size: 40px;
 }
+
+/* Coloro la scritta "THE BOOLEANER" */
+.Colorchange{
+    color: #3392e5;
+}
+
+
 /* Rimpicciolisco il sottotitolo 10/10/2020 */
 .datatitole{
     font-size: 10px;
@@ -13,5 +28,31 @@
 }
 /* Aggiungo una marcatura sottotitolo al testo  */
 .Sottolineo{
-    background-color: yellow;
+    background-color: #ffff00;
+}
+/* Modifico i colori della tabella */
+.table-data{
+    background-color: #00ffff;
+}
+.Sottolineo2{
+    background-color: #ffff00;
+}
+
+.Colorchange2{
+    color: #4c064c;
+}
+.photo-monitor{
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+    font-weight: 800;
+}
+.photo-graph{
+    color: white;
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 299px;
+    background-repeat: no-repeat;
+    font-weight: 800;
 }
