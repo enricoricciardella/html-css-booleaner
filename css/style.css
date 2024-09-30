@@ -3,7 +3,15 @@
 .Main-title{
     font-size: 40px;
 }
-
+/* Rimpicciolisco il sottotitolo 10/10/2020 */
 .datatitole{
     font-size: 10px;
+}
+/* Rimpicciolisco sottotitoli foto */
+.Subtitle{
+    font-size: 12px;
+}
+/* Aggiungo una marcatura sottotitolo al testo  */
+.Sottolineo{
+    background-color: yellow;
 }
